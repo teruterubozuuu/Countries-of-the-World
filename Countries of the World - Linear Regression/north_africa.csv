@@ -1,0 +1,7 @@
+country,region,population,area,pop_density,coastline,net_migraton,infant_mortality,gdp,literacy,phone_per_thousand,arable,crops,other,climate,birthrate,deathrate,agriculture,industry,service
+Algeria ,NORTHERN AFRICA                    ,32930091,2381740,138,4,-39,31,6000,700,781,322,25,9653,1,1714,461,101,6,298
+Egypt ,NORTHERN AFRICA                    ,78887007,1001450,788,24,-22,3259,4000,577,1318,287,48,9665,1,2294,523,149,357,493
+Libya ,NORTHERN AFRICA                    ,5900754,1759540,34,10,0,246,6400,826,1271,103,19,9878,0,2649,348,76,499,425
+Morocco ,NORTHERN AFRICA                    ,33241259,446550,744,41,-98,4162,4000,517,404,1961,217,7822,0,2198,558,217,357,426
+Tunisia ,NORTHERN AFRICA                    ,10175014,163610,622,70,-57,2477,6900,742,1236,1786,1374,684,3,1552,513,132,318,55
+Western Sahara ,NORTHERN AFRICA                    ,273008,266000,10,42,0,0,0,0,0,2,0,9998,1,0,0,0,0,4
