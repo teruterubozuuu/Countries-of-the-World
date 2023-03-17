@@ -1,0 +1,6 @@
+country,region,population,area,pop_density,coastline,net_migraton,infant_mortality,gdp,literacy,phone_per_thousand,arable,crops,other,climate,birthrate,deathrate,agriculture,industry,service
+Bermuda ,NORTHERN AMERICA                   ,65773,53,12410,19434,249,853,36000,980,8514,20,0,80,2,114,774,1,1,89
+Canada ,NORTHERN AMERICA                   ,33098932,9984670,33,202,596,475,29800,970,5522,496,2,9502,0,1078,78,22,294,684
+Greenland ,NORTHERN AMERICA                   ,56361,2166086,0,204,-837,1582,20000,0,4489,0,0,100,1,1593,784,0,0,0
+St Pierre & Miquelon ,NORTHERN AMERICA                   ,7026,242,290,4959,-486,754,6900,990,6832,1304,0,8696,0,1352,683,0,0,0
+United States ,NORTHERN AMERICA                   ,298444215,9631420,310,21,341,65,37800,970,8980,1913,22,8065,3,1414,826,1,204,787
