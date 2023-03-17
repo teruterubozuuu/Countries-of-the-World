@@ -1,4 +1,0 @@
-country,region,population,area,pop_density,coastline,net_migraton,infant_mortality,gdp,literacy,phone_per_thousand,arable,crops,other,climate,birthrate,deathrate,agriculture,industry,service
-Estonia ,BALTICS                            ,1324333,45226,293,839,-316,787,12300,998,3338,1604,45,8351,3,1004,1325,4,294,666
-Latvia ,BALTICS                            ,2274735,64589,352,82,-223,955,10200,998,3214,2967,47,6986,3,924,1366,4,261,699
-Lithuania ,BALTICS                            ,3585906,65200,550,14,-71,689,11400,996,2234,4522,91,5387,0,875,1098,55,325,62
